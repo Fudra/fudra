@@ -1,16 +1,19 @@
-### Hi there 👋
+###  :wave: Hello there! I'm Philipp
+## I am a Fullstack Webdevoloper in Berlin, Germany
 
-<!--
-**Fudra/fudra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="">
+    <img src="https://komarev.com/ghpvc/?username=fudra&label=Profile%20views&color=0e75b6&style=flat" alt="fudra" />
+  </a>
+  <a href="https://github.com/fudra?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/fudra?color=green&logo=github">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats.vercel.app/api?username=fudra&show_icons=true&count_private=true&include_all_commits=true" alt="fudra"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+**Languages and Tools:** 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fudra&show_icons=true&locale=en&layout=compact" alt="fudra" align="left" />
