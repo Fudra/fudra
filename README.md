@@ -3,17 +3,14 @@
 
 <p align="left">
   <a href="">
-    <img src="https://komarev.com/ghpvc/?username=fudra&label=Profile%20views&color=0e75b6&style=flat" alt="fudra" />
+    <img src="https://komarev.com/ghpvc/?username=wahlephilipp&label=Profile%20views&color=0e75b6&style=flat" alt="wahlephilipp" />
   </a>
   <a href="https://github.com/fudra?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/fudra?color=green&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/wahlephilipp?color=green&logo=github">
   </a>
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=fudra&show_icons=true&count_private=true&include_all_commits=true" alt="fudra"/>
-
 
 
 **Languages and Tools:** 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fudra&show_icons=true&locale=en&layout=compact" alt="fudra" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=wahlephilipp&show_icons=true&locale=en&layout=compact" alt="wahlephilipp" align="left" />
